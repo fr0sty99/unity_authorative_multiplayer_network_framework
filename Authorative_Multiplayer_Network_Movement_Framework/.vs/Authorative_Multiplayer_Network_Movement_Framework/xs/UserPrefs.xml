@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{2426C8BB-27A1-C739-61EB-650D3862B19C}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NetworkPacketController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerNetwork.cs">
     <Files>
-      <File FileName="Assets/Scripts/NetworkPacketController.cs" Line="7" Column="32" />
+      <File FileName="Assets/Scripts/NetworkPacketController.cs" Line="73" Column="37" />
+      <File FileName="Assets/Scripts/PlayerNetwork.cs" Line="24" Column="9" />
+      <File FileName="Assets/Scripts/NetworkPacketManager.cs" Line="27" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

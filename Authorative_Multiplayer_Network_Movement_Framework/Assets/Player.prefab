@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 136529479823512994}
   - component: {fileID: 114548159914269784}
   - component: {fileID: 143088465541825290}
+  - component: {fileID: 114214101390385138}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -86,6 +87,38 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1618435845376394}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &114214101390385138
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1618435845376394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 253
+    i1: 150
+    i2: 199
+    i3: 62
+    i4: 52
+    i5: 203
+    i6: 84
+    i7: 239
+    i8: 217
+    i9: 69
+    i10: 255
+    i11: 43
+    i12: 54
+    i13: 118
+    i14: 187
+    i15: 87
+  m_ServerOnly: 0
+  m_LocalPlayerAuthority: 1
 --- !u!114 &114548159914269784
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -97,7 +130,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aca044011714d4bb7a97c2466c723889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 0
+  moveSpeed: 5
+  networkSendRate: 0.5
 --- !u!136 &136529479823512994
 CapsuleCollider:
   m_ObjectHideFlags: 1
