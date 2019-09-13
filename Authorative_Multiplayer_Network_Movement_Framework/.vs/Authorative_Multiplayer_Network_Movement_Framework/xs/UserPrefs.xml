@@ -6,16 +6,15 @@
       <File FileName="Assets/Scripts/NetworkPackageManager.cs" Line="79" Column="34" />
       <File FileName="Assets/Scripts/NetworkPackageController.cs" Line="43" Column="69" />
       <File FileName="Assets/Scripts/MyNetworkPackageManager.cs" Line="8" Column="33" />
-      <File FileName="Assets/Player.cs" Line="26" Column="1" />
-      <File FileName="Assets/Server.cs" Line="78" Column="37" />
-      <File FileName="Assets/Client.cs" Line="59" Column="6" />
+      <File FileName="Assets/Player.cs" Line="10" Column="6" />
+      <File FileName="Assets/Server.cs" Line="41" Column="1" />
+      <File FileName="Assets/Client.cs" Line="59" Column="74" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/Joris/Data/DEVEL/github_unity_authorative_multiplayer_network_framework/Authorative_Multiplayer_Network_Movement_Framework/Assets/Client.cs" relfile="Assets/Client.cs" line="51" column="1" />
-      <Breakpoint file="/Users/Joris/Data/DEVEL/github_unity_authorative_multiplayer_network_framework/Authorative_Multiplayer_Network_Movement_Framework/Assets/Server.cs" relfile="Assets/Server.cs" line="47" column="1" />
+      <Breakpoint file="/Users/Joris/Data/DEVEL/github_unity_authorative_multiplayer_network_framework/Authorative_Multiplayer_Network_Movement_Framework/Assets/Server.cs" relfile="Assets/Server.cs" line="40" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
